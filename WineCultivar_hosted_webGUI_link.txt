@@ -1,0 +1,6 @@
+Name: Mbene Callista
+Matric Number: 22CD032163
+Machine Learning Algorithm Used: Logistic Regression
+Model Persistence Method: Joblib (.pkl)
+Hosted Web GUI Link:https://wine-prediction-project-7iq8.onrender.com
+GitHub Repository:https://github.com/callista-mbene/WineCultivar_Project_MbeneCallista_22CD032163
